@@ -80,6 +80,7 @@ body {
         Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue',
         sans-serif;
     padding: 0 15px;
+    text-align: center;
 }
 
 .arrows {
@@ -120,7 +121,7 @@ button {
 
 @media screen and (max-width: 365px) {
     body {
-        font-size: 12px;
+        font-size: 14px;
     }
     .main-div {
         margin: 0 15px;
