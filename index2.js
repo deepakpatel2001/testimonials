@@ -66,6 +66,5 @@ leftArrow.addEventListener('click', () => {
 randomBtn.addEventListener('click', () => {
     const randomNumberIndex = Math.floor(Math.random() * userInfo.length);
     currentIndex = randomNumberIndex;
-    console.log(randomNumberIndex);
     updateUser();
 });
